@@ -2,6 +2,8 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1o_DUn8VnNiKN1wUypkKMVIWfvAwkcGFp"/>
 
+## Review
+We used the Airbnb dataset to build regression models py pyspark MLLib
 
 ## :octocat:	Team Memebers
 

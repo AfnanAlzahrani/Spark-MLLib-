@@ -1,13 +1,6 @@
 # Spark-MLLib-
 
-<img src="https://drive.google.com/uc?export=view&id=1xWCJh1ASTGiqDctt3sGxo4q5mYtGO4tF"/>
-
-## Review
-
-### Dataset:
-> * The Hotel Reviews dataset contains two columns and 20491 row.
-
-
+<img src="https://drive.google.com/uc?export=view&id=1o_DUn8VnNiKN1wUypkKMVIWfvAwkcGFp"/>
 
 
 ## :octocat:	Team Memebers
